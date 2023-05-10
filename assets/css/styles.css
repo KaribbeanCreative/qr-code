@@ -48,24 +48,10 @@ body {
 }
 
 .card-title {
-    font-size: 22px;
+    font-size: 20px;
 }
 
 .card-description {
     padding-top: 15px;
     color: #7b959d;
 }
-/*----- MEDIA QUERIES MOBILE -----*/
-/* @media (max-width: 375px) {
-    
-}
-
-@media screen and (min-width: 375px) and (orientation: landscape) {
-
-} */
-
-
-/*----- MEDIA QUERIES DESKTOP -----*/
-/* @media (min-width: 1440px) {
-    
-} */
