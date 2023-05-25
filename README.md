@@ -2,7 +2,7 @@
 
 ![Challenge 1 : QR Code Component](assets/design/desktop-preview.jpg)
 
-This is my first Frontend Mentor challenge 😀.
+This is my first Frontend Mentor challenge 😀.<br/>
 This is my solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). 
 
 [Frontend Mentor](https://www.frontendmentor.io) challenges help improve coding skills by building realistic projects.
