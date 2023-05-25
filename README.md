@@ -47,7 +47,7 @@ Users should be able to :
 
 ## 🔗 Links
 
-- Solution : [Add solution URL here](https://your-solution-url.com)
+- Solution : [Solution QR Code Component](https://www.frontendmentor.io/solutions/qr-code-challenge-R_WoELOwOj)
 - Live Site : [QR Code Component](https://dopekaribbean-qr-code.netlify.app)
 
 
@@ -63,16 +63,16 @@ Users should be able to :
 
 ## 📦 Useful resources
 
-- [Flexbox Zombies](https://mastery.games/flexboxzombies/)
+- 
 
 
 
 ## 😎 Author
 
 - Website - [Karibbean Creative](https://karibbeancreative.xyz/)
-- Frontend Mentor - [@dopeKaribbean](https://www.frontendmentor.io/profile/dopeKaribbean)
 - GitHub - [@karibbeanCreative](https://github.com/karibbeanCreative)
 - Instagram - [@karibbeanCreative](https://www.instagram.com/karibbean.creative/)
+- Frontend Mentor - [@dopeKaribbean](https://www.frontendmentor.io/profile/dopeKaribbean)
 
 
 
